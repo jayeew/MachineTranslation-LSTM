@@ -1,6 +1,6 @@
 # 英文到中文的机器翻译
 此模型整体结构和参数设置与我的另一个项目[中文聊天机器人](https://github.com/jiayiwang5/Chinese-ChatBot)完全一致<br>
-此外，可以和我另一个基于Transformer的机器翻译的项目[MachineTranslation-Transformer](https://github.com/jiayiwang5/MachineTranslation-Transformer)对比学习，二者原始数据一致
+此外，可以和我另一个基于Transformer的机器翻译项目[MachineTranslation-Transformer](https://github.com/jiayiwang5/MachineTranslation-Transformer)对比学习，二者原始数据一致
 ## 环境配置
 | 程序         | 版本      |
 | ---------- | ------- |
